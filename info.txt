@@ -3,3 +3,4 @@ jagadeesh
 DEVOPS ENGINEER
 fast forward merge
 3-way merge
+recursive merge
